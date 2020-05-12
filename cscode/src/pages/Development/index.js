@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Container, Content } from './styles';
-import development from '../../assets/img/cscode.svg';
+import development from '../../assets/img/cscode.png';
 
 function Developement() {
   return (
